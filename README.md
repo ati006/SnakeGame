@@ -1,0 +1,2 @@
+# SnakeGame
+experiement with PyCharm
